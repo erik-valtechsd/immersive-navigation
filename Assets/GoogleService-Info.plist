@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>571640299856-sbpm6fb1d4r3hv7o770e90nlm3gg2uu4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.571640299856-sbpm6fb1d4r3hv7o770e90nlm3gg2uu4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxaoVn4_4uRGmGpZHnZ01MHrW-uoqB0Sg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>571640299856</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.valtech.immersive-navigation</string>
+	<key>PROJECT_ID</key>
+	<string>immersive-navigation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>immersive-navigation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:571640299856:ios:9ffa26f0319a07cac0ec55</string>
+	<key>DATABASE_URL</key>
+	<string>https://immersive-navigation-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
